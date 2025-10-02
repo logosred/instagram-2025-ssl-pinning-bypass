@@ -1,4 +1,4 @@
-// https://github.com/log-cat/murder-meta-bypass
+// https://github.com/logosred/murder-meta-bypass
 // Simple script to bypass SSL pinning in Instagram.
 Java.perform(function() {
     console.log("--- Murder Meta Bypass Loaded ---");
